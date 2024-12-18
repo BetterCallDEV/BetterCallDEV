@@ -1,11 +1,11 @@
-# Hi there! 👋
+# Hi There!
 
 Welcome to my GitHub profile! Here's a bit about me and what I do:
 
-## 📊 GitHub Stats
+## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BetterCallDEV&show_icons=true&theme=radical)
 
-## 🚀 Skills
+## Skills
 
 ### Programming Languages
 - **C#**: Building robust applications, APIs, and tools.
