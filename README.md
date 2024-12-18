@@ -2,6 +2,9 @@
 
 Welcome to my GitHub profile! Here's a bit about me and what I do:
 
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BetterCallDEV&show_icons=true&theme=radical)
+
 ## 🚀 Skills
 
 ### Programming Languages
@@ -21,8 +24,4 @@ Welcome to my GitHub profile! Here's a bit about me and what I do:
 - Desktop application development.
 - Machine learning and data visualization.
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BetterCallDEV&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BetterCallDEV&layout=compact&theme=radical)
-
-Thanks for visiting my profile, and have a great day! 😄
+Thanks for visiting my profile, and have a great day!
