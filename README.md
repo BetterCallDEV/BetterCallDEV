@@ -1,27 +1,35 @@
-<p align="left">Hello World!!</p>
+# Hi there! 👋
 
+Welcome to my GitHub profile! Here's a bit about me and what I do:
 
+## 🚀 Skills
 
-###
+### Programming Languages
+- **C#**: Building robust applications, APIs, and tools.
+- **Python**: Data analysis, scripting, and automation.
+- **JavaScript**: Interactive web applications.
+- **HTML/CSS**: Responsive and visually appealing web designs.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BetterCallDEV&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-</div>
+### Tools & Frameworks
+- ASP.NET, Flask, and Django.
+- React and Material-UI.
+- WPF with Material Design elements.
+- Git for version control.
 
-###
+### Interests
+- Full-stack development.
+- Desktop application development.
+- Machine learning and data visualization.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-</div>
+## 🌱 Currently Learning
+- Advanced algorithms.
+- Exploring new libraries and technologies to improve my work.
 
-<img src="https://raw.githubusercontent.com/BetterCallDEV/BetterCallDEV/output/snake.svg" alt="Snake animation" />
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
 
-###
+## 📫 Contact
+Feel free to reach out to me via [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN) or email me at YOUR_EMAIL@example.com.
+
+Thanks for visiting my profile, and have a great day! 😄
